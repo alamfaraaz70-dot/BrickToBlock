@@ -1,0 +1,7 @@
+{
+  "name": "BrickToBlock",
+  "description": "An AI-powered home construction platform connecting users with verified engineers and providing automated design generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
